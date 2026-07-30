@@ -1,0 +1,13 @@
+.login-header {
+    text-align: center;
+}
+
+.main {
+    width: 60%;
+    margin: auto;
+}
+
+.form-group label {
+    display: block;
+}
+
